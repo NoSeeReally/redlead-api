@@ -14,7 +14,8 @@ def encode_pw(pw):
 
 def ask_password():
  while True:
-    pw = getpass.getpass(" Enter password (8-16 chars): ").strip()
+    pw = input(" Enter password (8-16 chars): ").strip()
+    #pw = getpass.getpass(" Enter password (8-16 chars): ").strip()
     if PASSWORD.fullmatch(pw):
         return pw
 

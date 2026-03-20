@@ -1,1 +1,30 @@
-{} 
+{
+    "shelly77.": {
+        "id": "7ed7a8e9-6393-5840-bdeb-06eb18854498",
+        "fullName": "Shell Advance",
+        "hash": "$2b$12$EJgEoSwbH.9b865r7v4q4.CqmaR6aUwkLugwlZXuv27i.mPbLzm5y",
+        "userLevel": 0,
+        "createdAt": 1774020984
+    },
+    "yamalube44.": {
+        "id": "b8ff1ceb-8e25-51cc-9ffe-37d1147f6685",
+        "fullName": "Yamaha BlueCore",
+        "hash": "$2b$12$FHWSJm0y.Q2/9k4K0VBbhODb8RYnVbNabXXlkrjcj2HH0405LniWG",
+        "userLevel": 1,
+        "createdAt": 1774021454
+    },
+    "hondasynth800.": {
+        "id": "b377e0cb-249d-5f67-975e-6588eab89c9f",
+        "fullName": "Honda Pro",
+        "hash": "$2b$12$BgupeSQSKUTm2LnElE837e4GcrOHg3di4ah3IQpGbzJhNPXQpL2Dq",
+        "userLevel": 2,
+        "createdAt": 1774021494
+    },
+    "delo1540.": {
+        "id": "5144448c-bb94-5cce-866d-def50bf51168",
+        "fullName": "Delo Gold",
+        "hash": "$2b$12$o/CIu3ugCRBrRQji7WCuc.vZm7ANhG1zKDufE5oFpL/54KnCRU5Li",
+        "userLevel": 3,
+        "createdAt": 1774021527
+    }
+}
